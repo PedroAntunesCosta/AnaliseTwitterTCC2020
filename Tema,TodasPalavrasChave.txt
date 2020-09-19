@@ -1,0 +1,7 @@
+COLOCAR UM TEMA POR LINHA, SEGUIDO DAS PALAVRAS-CHAVE SEPARADAS POR VÍRGULA.
+
+TEMA 1,PALAVRA,PALAVRA,PALAVRA
+TEMA 2,PALAVRA,PALAVRA,PALAVRA
+
+EXEMPLO USADO NO TRABALHO:
+Reforma da Previdência,reforma da previdencia,reformadaprevidencia,pec 06/2019,pec06/2019,pec 06,pec06,pec 06 de 2019,pec06de2019,pec da previdencia,pecdaprevidencia,pec da reforma da previdencia,pecdareformadapervidencia,ref da previdencia,ref. da previdencia
